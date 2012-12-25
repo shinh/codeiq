@@ -1,0 +1,1 @@
+r="";for(s=x=y=40;y+s;)r+="*-\n"[x+s?y*y+x*x-->899|0:(x=s,y-=2,2)];return r
